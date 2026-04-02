@@ -1,0 +1,1052 @@
+{
+  "hindi_movies": [
+    {
+      "id": "1",
+      "title": "Raid 2",
+      "language": "Hindi",
+      "releaseYear": 2025,
+      "genre": "Action/Thriller",
+      "rating": 6.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjQyOTRiYTQtNzU0MS00ZGM2LWE4MTktODI5ZjZiN2NkYjYyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Pushpa 2: The Rule",
+      "language": "Telugu",
+      "releaseYear": 2024,
+      "genre": "Action/Drama",
+      "rating": 8.1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjllNTdiM2QtYjQ0Ni00ZGM1LWFlYmUtNWY0YjMzYWIxOTYxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Housefull 5",
+      "language": "Hindi",
+      "releaseYear": 2025,
+      "genre": "Comedy",
+      "rating": 5.5,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmIzMThjNTYtNjkwZi00NmM3LTliNGItZWIxYTUwMGU1YzM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Kesari Chapter2",
+      "language": "Hindi",
+      "releaseYear": 2025,
+      "genre": "Thriller",
+      "rating": 7.4,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTJiYTA4NDItMWNiYy00YmE3LTg4ZGItNjVlOGZlZGY4MjExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Devara: Part 1",
+      "language": "Telugu",
+      "releaseYear": 2024,
+      "genre": "Action/Saga",
+      "rating": 6.4,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmJmNzg0NjYtM2VhZi00MjlhLWExMzUtOWMwNjQ4MmQ5N2UyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Jawan",
+      "language": "Hindi",
+      "releaseYear": 2023,
+      "genre": "Action/Thriller",
+      "rating": 7.0,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Jawan_film_poster.jpg/250px-Jawan_film_poster.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Jailer",
+      "language": "Tamil",
+      "releaseYear": 2023,
+      "genre": "Action",
+      "rating": 7.2,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjE5MzhjYmItMGFjNC00ODIxLWJkNjktYWMxYTU0ZTM3NGYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Animal",
+      "language": "Hindi",
+      "releaseYear": 2023,
+      "genre": "Action/Drama",
+      "rating": 7.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZThmNDg1NjUtNWJhMC00YjA3LWJiMjItNmM4ZDQ5ZGZiN2Y2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Stree 2",
+      "language": "Hindi",
+      "releaseYear": 2024,
+      "genre": "Horror/Comedy",
+      "rating": 6.9,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTA1NmUxYzItZmVmNy00YmQxLTk4Y2UtZjVkMWUwMWQ5N2IxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Dragon",
+      "language": "Telugu",
+      "releaseYear": 2025,
+      "genre": "Sci‑Fi/Action",
+      "rating": 7.4,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGVhMjFmMmQtMDE5Zi00NDdjLTgxMzktOWIxZTBlNmViNDMzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Amaran",
+      "language": "Tamil",
+      "releaseYear": 2024,
+      "genre": "Biographical/War",
+      "rating": 7.2,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTAzMGQ2MGItMjk5OC00YWIwLThmMjUtYmNjMTIxNzVlZWQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Good Bad Ugly",
+      "language": "Tamil",
+      "releaseYear": 2025,
+      "genre": "Crime/Thriller",
+      "rating": 7.5,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTViMDEwZjgtMjEzZS00YWQ1LWI0ODctMWIzNTE4Y2Y5Y2Y2XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Dasara",
+      "language": "Telugu",
+      "releaseYear": 2023,
+      "genre": "Period/Action",
+      "rating": 7.1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzkxNmQ5NGItZDFiZi00MTFiLWFmZTktODAxODliZDkzZTY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Kantara",
+      "language": "Telugu/Hindi",
+      "releaseYear": 2023,
+      "genre": "Action/Drama",
+      "rating": 8.3,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTRlYmEzM2EtMWRkMC00OWJkLWFmN2ItNTQxNmQ4Zjk1OGQ5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Drishyam 2",
+      "language": "Hindi",
+      "releaseYear": 2022,
+      "genre": "Suspense Mystry",
+      "rating": 8.2,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGYyY2I5MzktMDg2MC00Nzc4LWIwNmYtMjg3NzE1ODQyMDllXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "16",
+      "title": "12th Fail",
+      "language": "Hindi",
+      "releaseYear": 2023,
+      "genre": "Thriller",
+      "rating": 8.7,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTE3OTIxZDYtNjA0NC00N2YxLTg1NGQtOTYxNmZkMDkwOWNjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Shershaah",
+      "language": "Hindi",
+      "releaseYear": 2021,
+      "genre": "War/Action",
+      "rating": 8.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTAzNzg0OGUtZmY1My00Y2VmLTk2YzYtNDU3MjlmNzU5ZjE3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Dangal",
+      "language": "Hindi",
+      "releaseYear": 2016,
+      "genre": "Comedy",
+      "rating": 9.2,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg"
+    },
+    {
+      "id": "19",
+      "title": "PK",
+      "language": "Hindi",
+      "releaseYear": 2014,
+      "genre": "Comedy ",
+      "rating": 9.1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Taare Zameen Par",
+      "language": "Hindi",
+      "releaseYear": 2017,
+      "genre": "Drama",
+      "rating": 9.1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjdjODdiMTQtYWIwZi00NTQyLWE0YWItMzk3MTBhOGUyNDY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "21",
+      "title": "Swades",
+      "language": "Hindi",
+      "releaseYear": 2004,
+      "genre": "Drama/Musical",
+      "rating": 8.9,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWJlNmQ2NmQtM2U3Yi00MTZjLWI1YzktY2I2MmExMzgwNmE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "22",
+      "title": "3 Idiots",
+      "language": "Hindi",
+      "releaseYear": 2006,
+      "genre": "Adventure",
+      "rating": 7.3,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzc4ZWQ3NmYtODE0Ny00YTQ4LTlkZWItNTBkMGQ0MmUwMmJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "23",
+      "title": "Chak De! India",
+      "language": "Hindi",
+      "releaseYear": 2007,
+      "genre": "Sport/Drama",
+      "rating": 8.1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjYyOTdmYTYtYjQ4Ni00ZmFiLWJlZjYtZmJkNDI5MmNlNjMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpga"
+    },
+    {
+      "id": "24",
+      "title": "Zindagi Na Milegi Dobara",
+      "language": "Hindi",
+      "releaseYear": 2011,
+      "genre": "Biography",
+      "rating": 8.2,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGIzYzg5NzItNDRkYS00NmIzLTk3NzQtZWYwY2VlZDhiYWQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "25",
+      "title": "Barfi!",
+      "language": "Hindi",
+      "releaseYear": 2012,
+      "genre": "Comedy/Drama ",
+      "rating": 8.1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQzMTEyODY2Ml5BMl5BanBnXkFtZTgwMjA0MDUyMjE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "26",
+      "title": "Gully Boy",
+      "language": "Hindi",
+      "releaseYear": 2019,
+      "genre": "Biography",
+      "rating": 7.9,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGY3ODA1YTAtZTUwNC00YWM3LThlNTUtNWQxYmQzYmU1YjcwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "27",
+      "title": "Article 15",
+      "language": "Hindi",
+      "releaseYear": 2019,
+      "genre": "Crime/Drama",
+      "rating": 6.9,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmNlMWYzN2MtODNhOC00ZTdhLTk3NzAtNzRkMTg3MWE4ZmJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "28",
+      "title": "Andhadhun",
+      "language": "Hindi",
+      "releaseYear": 2018,
+      "genre": "Thriller/Crime",
+      "rating": 8.2,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjE3OWE0ZDYtNjZiNi00YWI4LTk1NmItMDk3MThkZjFkMzE0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "29",
+      "title": "Queen",
+      "language": "Hindi",
+      "releaseYear": 2013,
+      "genre": "Comedy/Adventure ",
+      "rating": 8.1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWU0ZWFhODYtMWE5NC00YzNiLWJlZTctMjFhODhjNDdmZjFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "30",
+      "title": "Piku",
+      "language": "Hindi",
+      "releaseYear": 2015,
+      "genre": "Comedy/Drama ",
+      "rating": 7.6,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTUwOTMxNjc2OV5BMl5BanBnXkFtZTgwODQ4OTMxNTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "31",
+      "title": "Drishyam",
+      "language": "Hindi",
+      "releaseYear": 2015,
+      "genre": "Suspense Mystry",
+      "rating": 8.2,
+      "poster": "https://m.media-amazon.com/images/M/MV5BM2NmMGFjYTYtNWEwNS00MTM4LWE2ZTktNzZjMTE0OTQyNjFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "32",
+      "title": "Kahaani",
+      "language": "Hindi",
+      "releaseYear": 2012,
+      "genre": "Thriller/Mystery",
+      "rating": 8.1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1NDI0NzkyOF5BMl5BanBnXkFtZTcwNzAyNzE2Nw@@._V1_.jpg"
+    },
+    {
+      "id": "33",
+      "title": "Stree",
+      "language": "Hindi",
+      "releaseYear": 2018,
+      "genre": "Horror/Comedy",
+      "rating": 7.5,
+      "poster": "https://m.media-amazon.com/images/M/MV5BODhiZjI1MDMtZjFjOS00NjZiLWI5N2YtZTM2NWIxNmE3MjMzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "34",
+      "title": "Bajrangi Bhaijaan",
+      "language": "Hindi",
+      "releaseYear": 2015,
+      "genre": "Action/Comedy",
+      "rating": 8.1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjE1NjQ5ODc2NV5BMl5BanBnXkFtZTgwOTM5ODIxNjE@._V1_.jpg"
+    },
+    {
+      "id": "35",
+      "title": "Uri: The Surgical Strike",
+      "language": "Hindi",
+      "releaseYear": 2019,
+      "genre": "War/Action",
+      "rating": 8.2,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTgyMTlkZTgtMTMxYi00Mjk5LTg2NTMtNGYyMDVlZWM0NmZjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "36",
+      "title": "Raazi",
+      "language": "Hindi",
+      "releaseYear": 2018,
+      "genre": "Adventure",
+      "rating": 7.7,
+      "poster": "https://m.media-amazon.com/images/M/MV5BM2QyMTUyNDktN2JlYi00MmYxLWIyNTItNjYxZWI4OTU4NWNmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "37",
+      "title": "Airlift",
+      "language": "Hindi",
+      "releaseYear": 2016,
+      "genre": "Action/Thriller",
+      "rating": 8.8,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjNjMGEzNTUtOTJmMC00OGJkLThhOWYtZmUzYTk3ZWY4MmVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "38",
+      "title": "Tumbbad",
+      "language": "Hindi",
+      "releaseYear": 2012,
+      "genre": "Mystery/Adventure",
+      "rating": 7.9,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzRlMTM0YTAtYWRhNC00M2FiLTg0NjAtMWI5MTUwOTJmOGUxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "39",
+      "title": "Special 26",
+      "language": "Hindi",
+      "releaseYear": 2013,
+      "genre": "Thriller/Action",
+      "rating": 6.9,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1NDI5MjMzNF5BMl5BanBnXkFtZTcwMTc0MDQwOQ@@._V1_.jpg"
+    },
+    {
+      "id": "40",
+      "title": "OMG: Oh My God!",
+      "language": "Hindi",
+      "releaseYear": 2012,
+      "genre": "Comedy",
+      "rating": 8.1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzhmY2E3MDctYjAzOS00ZmQyLTk2M2QtODg0MWU0Y2VjNWRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "41",
+      "title": "OMG: Oh My God! 2",
+      "language": "Hindi",
+      "releaseYear": 2012,
+      "genre": "Comedy",
+      "rating": 7.5,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzRmMDYyZTgtZjhjMS00YzViLWEwMjktOTNiMjFjM2RmNmVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "42",
+      "title": "Rang De Basanti",
+      "language": "Hindi",
+      "releaseYear": 2006,
+      "genre": "Political Drama",
+      "rating": 8.1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjNjYmYwYWYtYWZlYS00Y2M4LWJkNmItMjIwOWQxODQ3NWFiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "43",
+      "title": "Rockstar",
+      "language": "Hindi",
+      "releaseYear": 2011,
+      "genre": "Tregedy",
+      "rating": 7.9,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTc3NzAxMjg4M15BMl5BanBnXkFtZTcwMDc2ODQwNw@@._V1_.jpg"
+    },
+    {
+      "id": "44",
+      "title": "Badhaai Ho",
+      "language": "Hindi",
+      "releaseYear": 2018,
+      "genre": "Comedy/Drama ",
+      "rating": 7.9,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjk5NjcyZTItMzE4OC00OWY5LWJmMTUtNzZjNmMwODFkNjkxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "45",
+      "title": "Vikram Vedha",
+      "language": "Hindi",
+      "releaseYear": 2022,
+      "genre": "Action/Crime",
+      "rating": 8.3,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4v-H_ILJA79DPD3saSnGVcqvJssSN7pVP5Q&s"
+    },
+    {
+      "id": "46",
+      "title": "Talvar",
+      "language": "Hindi",
+      "releaseYear": 2015,
+      "genre": "Mystry/",
+      "rating": 7.5,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTYzODg0Mjc4M15BMl5BanBnXkFtZTgwNzY4Mzc3NjE@._V1_.jpg"
+    },
+    {
+      "id": "47",
+      "title": "Masaan",
+      "language": "Hindi",
+      "releaseYear": 2016,
+      "genre": "Romance/Drama",
+      "rating": 8.1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTU4NTE0NTMyNl5BMl5BanBnXkFtZTgwNjI5MDkxNjE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "48",
+      "title": "Pink",
+      "language": "Hindi",
+      "releaseYear": 2016,
+      "genre": "Thriller/Drama",
+      "rating": 8.1,
+      "poster": "https://resizing.flixster.com/RPBdurbGyQwS-qda3hiiPYD4XLM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJlZjdmNTgzLWEyOWMtNDMzMC04MjA3LWYyOTg5ZTdhYjA1Mi53ZWJw"
+    },
+    {
+      "id": "49",
+      "title": "Neerja",
+      "language": "Hindi",
+      "releaseYear": 2016,
+      "genre": "Thriller/Drama",
+      "rating": 7.6,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjg1OGMyZjktYzBhYS00NTkwLWE3NTUtZGEwZjc5Njc1NDk1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "50",
+      "title": "Bhaag Milkha Bhaag",
+      "language": "Hindi",
+      "releaseYear": 2013,
+      "genre": "Drama",
+      "rating": 7.7,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTY1Nzg4MjcwN15BMl5BanBnXkFtZTcwOTc1NTk1OQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "51",
+      "title": "Super 30",
+      "language": "Hindi",
+      "releaseYear": 2019,
+      "genre": "Thriller",
+      "rating": 7.8,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTM0N2I4OTQtYmJlOC00MTUzLTlhZWMtZGIxODkxZTZkMDIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "52",
+      "title": "Kesari",
+      "language": "Hindi",
+      "releaseYear": 2019,
+      "genre": "Thriller",
+      "rating": 7.4,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmUyYzA3MGQtNzE0Zi00Nzg0LTk4NTAtNDQ3YWQ4M2IwMWYxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "53",
+      "title": "Pad Man",
+      "language": "Hindi",
+      "releaseYear": 2017,
+      "genre": "Romance",
+      "rating": 7.9,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGE4MTIwODQtMWQzNC00NGU4LTgwMjUtNGZjZDgxZGFlMDU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "54",
+      "title": "Mission Mangal",
+      "language": "Hindi",
+      "releaseYear": 2019,
+      "genre": "Historical Drama",
+      "rating": 6.6,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTEyYTAzZWYtNTdjMi00YzJiLWE5MjctZjhmNGZiNjdlNzgwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "55",
+      "title": "Mimi",
+      "language": "Hindi",
+      "releaseYear": 2021,
+      "genre": "Comedy Drama",
+      "rating": 7.8,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDVhYWFlMWItNzhiZi00ZmM2LTljZGQtMWYzY2EwOWRjNmZlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "56",
+      "title": "Kaagaz",
+      "language": "Hindi",
+      "releaseYear": 2018,
+      "genre": "Drama",
+      "rating": 8.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDRiZTViMWUtNTNhYS00Nzg3LTg3ZDctMmY3NWRhNDMyNTRmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "57",
+      "title": "Black",
+      "language": "Hindi",
+      "releaseYear": 2005,
+      "genre": "Drama",
+      "rating": 8.1,
+      "poster": "https://images.justwatch.com/poster/321850932/s718/black.jpg"
+    },
+    {
+      "id": "58",
+      "title": "Paa",
+      "language": "Hindi",
+      "releaseYear": 2009,
+      "genre": "Comedy Drama",
+      "rating": 7.8,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDIzNWI1YTUtZmFjNy00ZjZhLTk1ZDItOTU3YjNhZWUxMjJhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "59",
+      "title": "My Name is Khan",
+      "language": "Hindi",
+      "releaseYear": 2010,
+      "genre": "Drama/ROMANCE",
+      "rating": 7.8,
+      "poster": "https://m.media-amazon.com/images/M/MV5BODcyZWMxN2EtMmQ3My00NzgwLWE2MGMtMmQxMDA0N2U3ODRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "60",
+      "title": "Kabir Singh",
+      "language": "Hindi",
+      "releaseYear": 2019,
+      "genre": "Romance/Medical Drama",
+      "rating": 7.9,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzE5ZWQ2MTMtZjJjYy00NWY4LTk2ZWItM2I3M2FhMzhlOWFlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "61",
+      "title": "War",
+      "language": "Hindi",
+      "releaseYear": 2019,
+      "genre": "Action",
+      "rating": 6.5,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGI0ZGQ3MTQtYjllYy00MTkyLTg4ZWUtOTc1MmI2ZDE4OTYyXkEyXkFqcGc@._V1_.jpg"
+    },
+       {
+      "id": "64",
+      "title": "Krrish 3",
+      "language": "Hindi",
+      "releaseYear": 2013,
+       "genre": "Action/Superhero",
+      "rating": 5,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MzU3MTM1Ml5BMl5BanBnXkFtZTgwOTk2MjQ0MDE@._V1_FMjpg_UX1000_.jpg"
+    },
+    
+       {
+      "id": "65",
+      "title": "Ra.One",
+      "language": "Hindi",
+      "releaseYear": 2011,
+       "genre": "Action/Superhero",
+      "rating": 5,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzcyMjMxOTg4MF5BMl5BanBnXkFtZTcwNzEwMDE5Ng@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "66",
+      "title": "Don 2",
+      "language": "Hindi",
+      "releaseYear": 2011,
+      "genre": "Action",
+      "rating": 6.8,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTc3YmI2OTgtMTBmMi00Y2FmLWJjNGUtZTJjOGI1NDVlMDY5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "67",
+      "title": "Don",
+      "language": "Hindi",
+      "releaseYear": 2010,
+      "genre": "Drama",
+      "rating": 6.8,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjBmOTg2NTgtZTc2Mi00ZWRhLTkzMWQtMDI0YThhZTcyMzYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+      {
+      "id": "68",
+      "title": "Krrish",
+      "language": "Hindi",
+      "releaseYear": 2006,
+      "genre": "Action/Superhero",
+      "rating": 6.8,
+      "poster": "https://m.media-amazon.com/images/M/MV5BN2QxZjUxNmUtMWE5My00ZTA4LWI5ZDctNmFiMTc3NGViYWM5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "69",
+      "title": "Lagaan",
+      "language": "Hindi",
+      "releaseYear": 2001,
+      "genre": "Action",
+      "rating": 9.0,
+      "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p27923_p_v10_ad.jpg"
+    },
+    {
+      "id": "70",
+      "title": "Sholay",
+      "language": "Hindi",
+      "releaseYear": 1975,
+      "genre": "Action/Adventure",
+      "rating": 8.3,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGQ2NjU0MjktMTUyYi00NjQwLTg0ZTAtNzg5NTk0YTRlMWNhXkEyXkFqcGc@._V1_.jpg"
+    },
+        {
+      "id": "71",
+      "title": "KGF CHAPTER 1",
+      "language": "Hindi",
+      "releaseYear": 2018,
+      "genre": "Action/Thriller",
+      "rating": 8.3,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDVlYWYzNDUtZTM3Ny00OTI5LThiZDQtNTA0YjFhMTE1YTdjXkEyXkFqcGc@._V1_.jpg"
+    },
+      {
+      "id": "72",
+      "title": "KGF CHAPTER 2",
+      "language": "Hindi",
+      "releaseYear": 2022,
+      "genre": "Action/Thriller",
+      "rating": 8.4,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmQzZjVkZTUtYjI4ZC00ZDJmLWI0ZDUtZTFmMGM1Mzc5ZjIyXkEyXkFqcGc@._V1_.jpg"
+    },
+          {
+      "id": "73",
+      "title": "DHURANDHAR",
+      "language": "Hindi",
+      "releaseYear": 2025,
+      "genre": "Action/Thriller",
+      "rating": 8.4,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmEzMzM1OGMtMDVkYS00NGMwLTgyNzAtZjgyNWU4NTlhZDc4XkEyXkFqcGc@._V1_.jpg"
+    },
+         {
+      "id": "74",
+      "title": "DHURANDHAR THE REVENGE",
+      "language": "Hindi",
+      "releaseYear": 2025,
+      "genre": "Action/Thriller",
+      "rating": 8.5,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzdkNjAxNWMtNWY3My00NTI1LTg2YWQtOGI3MDA0NzdhMjEyXkEyXkFqcGc@._V1_.jpg"
+    }
+  ],
+  "hollywood_movies": [
+    {
+      "id": "1",
+      "title": "Sinners",
+      "language": "English",
+      "releaseYear": 2025,
+      "genre": "Supernatural/Thriller",
+      "rating": 8.1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Thunderbolts",
+      "language": "English",
+      "releaseYear": 2025,
+      "genre": "Action/Superhero",
+      "rating": 6.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTMwZTRmNWEtMGM5OC00NjFiLThlOTgtYjExMjRmOTAyZTlkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Captain America: Brave New World",
+      "language": "English",
+      "releaseYear": 2025,
+      "genre": "Action/Superhero",
+      "rating": 6.5,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDRjY2E0ZmEtN2QwNi00NTEwLWI3MWItODNkMGYwYWFjNGE0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Mission: Impossible – The Final Reckoning",
+      "language": "English",
+      "releaseYear": 2025,
+      "genre": "Action/Thriller",
+      "rating": 7.1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGQ5NGEyYTItMjNiMi00Y2EwLTkzOWItMjc5YjJiMjMyNTI0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Detective Chinatown 1900",
+      "language": "Chinese",
+      "releaseYear": 2025,
+      "genre": "Comedy/Crime",
+      "rating": 6.3,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjRhMGY0ZWMtZGVkNy00YjE4LTg4MGYtY2U4NDRmYWQwNWMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Lilo & Stitch",
+      "language": "English",
+      "releaseYear": 2025,
+      "genre": "Family/Comedy",
+      "rating": 7.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmFmZjM1ZTEtYzQ5ZS00MTRmLTkzMDktYWMxNTg2NGE3YjY4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "7",
+      "title": "A Minecraft Movie",
+      "language": "English",
+      "releaseYear": 2025,
+      "genre": "Animation/Adventure",
+      "rating": 6.8,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzFjMzNjOTktNDBlNy00YWZhLWExYTctZDcxNDA4OWVhOTJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Ne Zha 2",
+      "language": "Chinese",
+      "releaseYear": 2025,
+      "genre": "Animation/Fantasy",
+      "rating": 8.2,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTU0ZDRmM2ItNjRlMS00MWNmLWJhZmItYmNjZmM3MGMyMGQzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Kung Fu Panda 4",
+      "language": "English",
+      "releaseYear": 2024,
+      "genre": "Animation/Action",
+      "rating": 7.1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzJlNGYxYzQtOTg4MC00OTMyLTkwYzMtZDRlNTgwY2YwOWYxXkEyXkFqcGc@._V1_.jpg"
+    },
+   
+    {
+      "id": "11",
+      "title": "Dune: Part Two",
+      "language": "English",
+      "releaseYear": 2024,
+      "genre": "Sci‑Fi/Adventure",
+      "rating": 8.1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Wicked",
+      "language": "English",
+      "releaseYear": 2024,
+      "genre": "Musical/Fantasy",
+      "rating": 7.3,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGM2YzVhNDYtNWIxOS00M2IxLTk1MzMtYzM5NjNkODQxZDU0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Despicable Me 4",
+      "language": "English",
+      "releaseYear": 2024,
+      "genre": "Animation/Comedy",
+      "rating": 6.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzY0ZTlhYzgtOTgzZC00ZTg2LTk4NTEtZDllM2E2NGE5Njg2XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Moana 2",
+      "language": "English",
+      "releaseYear": 2024,
+      "genre": "Animation/Adventure",
+      "rating": 7.2,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDUxNThhYTUtYjgxNy00MGQ4LTgzOTEtZjg1YTU5NTcwNThlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Deadpool & Wolverine",
+      "language": "English",
+      "releaseYear": 2024,
+      "genre": "Action/Comedy",
+      "rating": 7.6,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Fast X",
+      "language": "English",
+      "releaseYear": 2023,
+      "genre": "Action",
+      "rating": 5.2,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzEwZjczOTktYzU1OS00YjJlLTgyY2UtNWEzODBlN2RjZDEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "language": "English",
+      "releaseYear": 2023,
+      "genre": "Action/Sci‑Fi",
+      "rating": 8.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWE5MGI3MDctMmU5Ni00YzI2LWEzMTQtZGIyZDA5MzQzNDBhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Oppenheimer",
+      "language": "English",
+      "releaseYear": 2023,
+      "genre": "Biography/Drama",
+      "rating": 7.9,
+      "poster": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "19",
+      "title": "Barbie",
+      "language": "English",
+      "releaseYear": 2023,
+      "genre": "Comedy/Fantasy",
+      "rating": 7.4,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjI3NDU0ZGYtYjA2YS00Y2RlLTgwZDAtYTE2YTM5ZjE1M2JlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "20",
+      "title": "The Batman",
+      "language": "English",
+      "releaseYear": 2022,
+      "genre": "Action/Crime",
+      "rating": 7.9,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "21",
+      "title": "Black Panther: Wakanda Forever",
+      "language": "English",
+      "releaseYear": 2022,
+      "genre": "Action/Superhero",
+      "rating": 7.3,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWY5NDY1ZjItZDQxMy00MTAzLTgyOGQtNTQxYjFiMzZjMjUyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "22",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "language": "English",
+      "releaseYear": 2022,
+      "genre": "Action/Fantasy",
+      "rating": 7.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BN2YxZGRjMzYtZjE1ZC00MDI0LThjZmQtZTZmMzVmMmQ2NzBmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "23",
+      "title": "Jurassic World Dominion",
+      "language": "English",
+      "releaseYear": 2022,
+      "genre": "Action/Adventure",
+      "rating": 5.6,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGExMWU2NWMtNzczYi00NjQ4LTk2YzctZGZkYmRmMDdhMjllXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "24",
+      "title": "Top Gun: Maverick",
+      "language": "English",
+      "releaseYear": 2022,
+      "genre": "Action/Drama",
+      "rating": 8.4,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDBkZDNjMWEtOTdmMi00NmExLTg5MmMtNTFlYTJlNWY5YTdmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "25",
+      "title": "Avatar: The Way of Water",
+      "language": "English",
+      "releaseYear": 2022,
+      "genre": "Action/Sci‑Fi",
+      "rating": 7.8,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmQxNjZlZTctMWJiMC00NGMxLWJjNTctNTFiNjA1Njk3ZDQ5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "26",
+      "title": "Spider-Man: Way No Home",
+      "language": "English",
+      "releaseYear": 2021,
+      "genre": "Action/Superhero",
+      "rating": 8.2,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "27",
+      "title": "Godzilla vs. Kong",
+      "language": "English",
+      "releaseYear": 2021,
+      "genre": "Action/Sci‑Fi",
+      "rating": 6.3,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjZlYjUwZjItZmQ1ZS00NDU2LWFhNWMtMGRmMmZiMzliY2NhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "28",
+      "title": "Venom: Let There Be Carnage",
+      "language": "English",
+      "releaseYear": 2021,
+      "genre": "Action/Superhero",
+      "rating": 6.2,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGIxMTU1MjItM2FmMi00YmFiLTgwNDMtMTczYmVjYTBhNGZhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "29",
+      "title": "F9",
+      "language": "English",
+      "releaseYear": 2021,
+      "genre": "Action",
+      "rating": 5.2,
+      "poster": "https://m.media-amazon.com/images/M/MV5BODJkMTQ5ZmQtNzQxYy00ZWNlLWI0ZGYtYjU1NzdiMjcyNDRmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "30",
+      "title": "No Time to Die",
+      "language": "English",
+      "releaseYear": 2021,
+      "genre": "Action/Thriller",
+      "rating": 7.3,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGZiOGZhZDQtZmRkNy00ZmUzLTliMGEtZGU0NjExOGMxZDVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "31",
+      "title": "Avengers: Endgame",
+      "language": "English",
+      "releaseYear": 2019,
+      "genre": "Action/Superhero",
+      "rating": 8.4,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg"
+    },
+    {
+      "id": "32",
+      "title": "Spider-Man: Far From Home",
+      "language": "English",
+      "releaseYear": 2019,
+      "genre": "Action/Superhero",
+      "rating": 7.5,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzNhNTE0NWQtN2E1Ny00NjcwLTg1YTctMGY1NmMwODJmY2NmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "33",
+      "title": "Frozen II",
+      "language": "English",
+      "releaseYear": 2019,
+      "genre": "Animation/Family",
+      "rating": 6.8,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbm28EZhooHofMhqRbjqYXm58jMZo87-n1A&s"
+    },
+    {
+      "id": "34",
+      "title": "The Lion King",
+      "language": "English",
+      "releaseYear": 2019,
+      "genre": "Animation/Drama",
+      "rating": 6.9,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Aquaman",
+      "language": "English",
+      "releaseYear": 2018,
+      "genre": "Action/Fantasy",
+      "rating": 6.9,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_.jpg"
+    },
+    {
+      "id": "35",
+      "title": "Incredibles 2",
+      "language": "English",
+      "releaseYear": 2018,
+      "genre": "Animation/Superhero",
+      "rating": 7.6,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "36",
+      "title": "Jurassic World: Fallen Kingdom",
+      "language": "English",
+      "releaseYear": 2018,
+      "genre": "Action/Adventure",
+      "rating": 6.2,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_.jpg"
+    },
+    {
+      "id": "37",
+      "title": "Black Panther",
+      "language": "English",
+      "releaseYear": 2018,
+      "genre": "Action/Superhero",
+      "rating": 7.3,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_.jpg"
+    },
+    {
+      "id": "38",
+      "title": "Avengers: Infinity War",
+      "language": "English",
+      "releaseYear": 2018,
+      "genre": "Action/Superhero",
+      "rating": 8.4,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg"
+    },
+    {
+      "id": "39",
+      "title": "Deadpool",
+      "language": "English",
+      "releaseYear": 2016,
+      "genre": "Action/Comedy",
+      "rating": 8.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzY3ZWU5NGQtOTViNC00ZWVmLTliNjAtNzViNzlkZWQ4YzQ4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "40",
+      "title": "Zootopia",
+      "language": "English",
+      "releaseYear": 2016,
+      "genre": "Animation/Adventure",
+      "rating": 8.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "41",
+      "title": "Finding Dory",
+      "language": "English",
+      "releaseYear": 2016,
+      "genre": "Animation/Family",
+      "rating": 7.3,
+      "poster": "https://m.media-amazon.com/images/M/MV5BY2VlYWJjMGMtYjcwZC00MDE2LThmMDItYjVlMzNhYzBhYTk5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "42",
+      "title": "Rogue One: A Star Wars Story",
+      "language": "English",
+      "releaseYear": 2016,
+      "genre": "Sci‑Fi/Adventure",
+      "rating": 7.8,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "43",
+      "title": "Avengers: Captain America Civil War",
+      "language": "English",
+      "releaseYear": 2016,
+      "genre": "Action/Superhero",
+      "rating": 7.8,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "44",
+      "title": "Avengers: Age Of Ultron",
+      "language": "English",
+      "releaseYear": 2015,
+      "genre": "Action/Superhero",
+      "rating": 7.3,
+      "poster": "https://m.media-amazon.com/images/M/MV5BODBhYTg1NGQtNGVmNS00ZTdiLThjYTYtZDFkNzRiNTZmNDZjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    }
+  ]
+} 
